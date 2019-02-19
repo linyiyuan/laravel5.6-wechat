@@ -36,12 +36,12 @@
 #### 2.2.2 安装步骤
 以下为本项目git仓库地址
 
-	git@git.appgame.com:linyiyuan/community-new.git
+	git@github.com:linyiyuan/laravel5.6-wechat.git
 	
 <br>
 **第1步：克隆代码**
 
-	git clone git@git.appgame.com:linyiyuan/community-new.git
+	git clone git@github.com:linyiyuan/laravel5.6-wechat.git
 <br>
 **第2步：安装composer包**
 	
